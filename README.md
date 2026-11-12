@@ -1,5 +1,7 @@
 # Simple Books – Accounting Website
 
+🔗 **Live demo:** https://shiza-naveed.github.io/simple-book-accounting/
+
 A single-page web app that helps small businesses record transactions and automatically generate financial statements.
 
 ## Features

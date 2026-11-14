@@ -4,6 +4,17 @@
 
 A single-page web app that helps small businesses record transactions and automatically generate financial statements.
 
+## Screenshots
+<img width="1897" height="891" alt="Screenshot 2026-11-14 105006" src="https://github.com/user-attachments/assets/e3c984de-be6b-4318-9a3a-dd630d2dadc0" />
+<img width="1172" height="507" alt="Screenshot 2026-11-14 110510" src="https://github.com/user-attachments/assets/ee010b84-0f04-4e5a-b33b-11afb681760d" />
+<img width="1895" height="901" alt="Screenshot 2026-11-14 111127" src="https://github.com/user-attachments/assets/ed4857f7-8b9a-47ee-8a18-e88092cea44f" />
+<img width="1915" height="911" alt="Screenshot 2026-11-14 111138" src="https://github.com/user-attachments/assets/5ced31ba-b49b-4c87-88f1-cc9906f85afc" />
+<img width="1892" height="912" alt="Screenshot 2026-11-14 111152" src="https://github.com/user-attachments/assets/916d7b82-a851-4fae-a0f1-f8e92e40bb9c" />
+<img width="1873" height="893" alt="Screenshot 2026-11-14 111200" src="https://github.com/user-attachments/assets/b5edce98-0805-4c2f-acc1-024b68da67b0" />
+<img width="1876" height="902" alt="Screenshot 2026-11-14 111218" src="https://github.com/user-attachments/assets/a3def918-c561-475e-81f6-04e18db8d0d9" />
+<img width="1877" height="743" alt="Screenshot 2026-11-14 111244" src="https://github.com/user-attachments/assets/125cd4ab-64c9-49d9-b239-ba19f8aa1093" />
+<img width="1882" height="907" alt="Screenshot 2026-11-14 111335" src="https://github.com/user-attachments/assets/a4407018-e4ca-4696-abb7-64d1b56c0747" />
+
 ## Features
 
 - **Accounts:** create parties such as lenders, customers and suppliers (e.g. "ABC Company")

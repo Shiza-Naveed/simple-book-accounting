@@ -29,7 +29,7 @@ A single-page web app that helps small businesses record transactions and automa
 
 ## Tech Stack
 
-HTML, CSS, JavaScript (no frameworks or dependencies)
+HTML
 
 ## How to Run
 
